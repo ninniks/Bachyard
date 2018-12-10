@@ -43,3 +43,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # Bachyard
+
+This **demo** is developed for university project.
+
+It works with API key provided by SongKick.
